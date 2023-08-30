@@ -80,11 +80,18 @@ a{
   }
 
   button {
-    font-family: Roboto, sans-serif;
     border: none;
+    font-size: 18px;
     border-radius: 8px;
     background: #3882F6;
     padding:10px;
     margin: 2px;
+    width: 135px;
     font-weight:800;
+    color: #F9FAF8;
+  }
+
+  .informationHeader {
+    font-size: 36px extra-bold #1F2937;
+
   }
